@@ -1,6 +1,6 @@
 /**
 *   Crear el proceso de inscripcion de koders mediante promesas 
-*       -Encadenamiento
+*       -Encadenamiento.
 *       -con async / await
 * 
 *       Los campos que se tienen que cumplir son:
