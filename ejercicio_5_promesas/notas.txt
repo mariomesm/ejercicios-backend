@@ -1,0 +1,41 @@
+/**
+*   Crear el proceso de inscripcion de koders mediante promesas 
+*       -Encadenamiento
+*       -con async / await
+* 
+*       Los campos que se tienen que cumplir son:
+*           -LLenar un formulario / Entrevista 
+*           -Mandar Propuesta 
+*           -LLenar contrato
+*           -Tomar curso de introduccion
+*/
+
+/**
+*
+*   En la carpeta de inscripcion_encadenamiento se encuentra el proceso de promesa mediante "Encadenamiento"
+*
+*/
+
+/**
+*
+*   En la carpeta de inscripcion_await se encuentra el proceso de promesa mediante "con async y await"
+*
+*/
+
+/**
+*
+*   Se estara utilizando este objeto para los ejercicios de promesas con "Encadenamiento" y "async y await"
+*
+*/
+
+                                        const koder ={
+                                            name:"Mario",
+                                            interview:false,
+                                            proposalSent:false,
+                                            isEnrrolled:false,
+                                            introductoryCourse:false
+                                        };
+
+
+
+
