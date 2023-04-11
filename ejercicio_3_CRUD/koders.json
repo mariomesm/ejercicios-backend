@@ -8,10 +8,17 @@
       "favoriteFood": "Pizza"
     },
     {
-      "id": 2,
-      "name": "Juan",
+      "id": 4,
+      "name": "Jose",
       "lastname": "Perez",
-      "age": 29,
+      "age": 28,
+      "favoriteFood": "Pasta"
+    },
+    {
+      "id": 3,
+      "name": "Jose",
+      "lastname": "Perez",
+      "age": 28,
       "favoriteFood": "Pasta"
     }
   ]

@@ -1,15 +1,15 @@
-const { error } = require('console');
+// 2.- Crear una función que permita agregar un Koder y guardar el archivo con el cambio realizado
+
 const fs = require('fs');
 let newKoder = {
-    "id": 2,
-    "name": "Juan",
+    "id": 3,
+    "name": "Jose",
     "lastname": "Perez",
-    "age": 29,
+    "age": 28,
     "favoriteFood": "Pasta"
-// 2.- Crear una función que permita agregar un Koder y guardar el archivo con el cambio realizado
 }
 function newKoderJson(koder) {
-    fs.readFile('./koder.json', 'utf8', (error, data)=>{
+    fs.readFile('./koders.json', 'utf8', (error, data)=>{
         if(error){
             console.log(error)
          }
